@@ -58,7 +58,7 @@ A simple, secure and modern authentication system built with **Next.js 15**, **F
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/firebase-login-app.git
+git clone https://github.com/kanunnikova23/firebase-login-app.git
 cd firebase-login-app
 ```
 This project uses environment variables stored in .env.local to securely load your Firebase credentials.
